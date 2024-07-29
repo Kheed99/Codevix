@@ -1,2 +1,2 @@
 # Codevix
-A repo containing my code for Codevixens 10 days coding challenge
+This project is a responsive registration form built using HTML and CSS, featuring mandatory fields for full name, email address, phone contact, and password. It includes a country dropdown with African countries, phone country codes, and options for gender and preferred learning mode. The form is styled with a blue, orange, and white theme for a modern look and ensures a great user experience across devices.
